@@ -1,0 +1,9 @@
+[submodule "apiQuestionRedis"]
+	path = apiQuestionRedis
+	url = https://github.com/commithouse/apiQuestionRedis.git
+[submodule "lab-metabase"]
+	path = lab-metabase
+	url = https://github.com/commithouse/lab-metabase.git
+[submodule "redis-to-postgres"]
+	path = redis-to-postgres
+	url = https://github.com/commithouse/redis-to-postgres.git
